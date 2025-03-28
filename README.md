@@ -49,7 +49,7 @@ WindowsCleanner
 
 1. 克隆该项目到本地：
     ```
-    git clone https://github.com/Arshtyi/WindowsCleanner.git
+    git clone https://github.com/Arshtyi/Windows-Cleanner.git
     ```
 2. 进入项目目录：
     ```
